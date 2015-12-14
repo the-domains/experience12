@@ -1,7 +1,7 @@
 name: Experience12
 favicon: null
-layout_spectrum: 0.15642233798280358
-typography_spectrum: 0.30016565625555813
+layout_spectrum: 0.8237
+typography_spectrum: 0.23025
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.7876191041432321
   lightness: 0.13448080839589238
-  saturation: 0.494223800720647
+  saturation: 0.8125
   rhythmicContrast: 0.863256171811372
 purpose: []
